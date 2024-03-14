@@ -10,7 +10,7 @@ namespace HajosKvíz
     {
         public KövetkezőGomb()
         {
-            this.Text = "Következő";
+            Text = "Következő";
         }
     }
 }
