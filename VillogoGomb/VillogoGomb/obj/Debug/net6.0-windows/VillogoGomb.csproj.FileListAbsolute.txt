@@ -1,0 +1,17 @@
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\bin\Debug\net6.0-windows\VillogoGomb.exe
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\bin\Debug\net6.0-windows\VillogoGomb.deps.json
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\bin\Debug\net6.0-windows\VillogoGomb.runtimeconfig.json
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\bin\Debug\net6.0-windows\VillogoGomb.dll
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\bin\Debug\net6.0-windows\VillogoGomb.pdb
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.csproj.AssemblyReference.cache
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.Form1.resources
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.csproj.GenerateResource.cache
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.AssemblyInfoInputs.cache
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.AssemblyInfo.cs
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.csproj.CoreCompileInputs.cache
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.dll
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\refint\VillogoGomb.dll
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.pdb
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\VillogoGomb.genruntimeconfig.cache
+C:\Users\lf7bzn\source\repos\VillogoGomb\VillogoGomb\obj\Debug\net6.0-windows\ref\VillogoGomb.dll

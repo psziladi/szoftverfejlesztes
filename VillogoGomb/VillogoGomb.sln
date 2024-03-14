@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VillogoGomb", "VillogoGomb\VillogoGomb.csproj", "{F0AED591-FFA4-469A-9DA8-BD5435AD8C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp2", "WinFormsApp2\WinFormsApp2.csproj", "{27B285D6-C83E-4C9C-A68A-2C61E2CF8E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0AED591-FFA4-469A-9DA8-BD5435AD8C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0AED591-FFA4-469A-9DA8-BD5435AD8C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0AED591-FFA4-469A-9DA8-BD5435AD8C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0AED591-FFA4-469A-9DA8-BD5435AD8C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B285D6-C83E-4C9C-A68A-2C61E2CF8E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B285D6-C83E-4C9C-A68A-2C61E2CF8E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B285D6-C83E-4C9C-A68A-2C61E2CF8E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B285D6-C83E-4C9C-A68A-2C61E2CF8E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF918F78-626A-4F6A-8F92-1CD750F12054}
+	EndGlobalSection
+EndGlobal

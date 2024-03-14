@@ -1,0 +1,17 @@
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\bin\Debug\net6.0-windows\ZH1_LF7BZN.exe
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\bin\Debug\net6.0-windows\ZH1_LF7BZN.deps.json
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\bin\Debug\net6.0-windows\ZH1_LF7BZN.runtimeconfig.json
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\bin\Debug\net6.0-windows\ZH1_LF7BZN.dll
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\bin\Debug\net6.0-windows\ZH1_LF7BZN.pdb
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.csproj.AssemblyReference.cache
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.Form1.resources
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.csproj.GenerateResource.cache
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.AssemblyInfoInputs.cache
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.AssemblyInfo.cs
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.csproj.CoreCompileInputs.cache
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.dll
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\refint\ZH1_LF7BZN.dll
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.pdb
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ZH1_LF7BZN.genruntimeconfig.cache
+C:\Users\lf7bzn\source\repos\ZH1_LF7BZN\ZH1_LF7BZN\obj\Debug\net6.0-windows\ref\ZH1_LF7BZN.dll
