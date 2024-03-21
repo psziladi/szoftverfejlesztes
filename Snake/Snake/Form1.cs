@@ -8,6 +8,7 @@ namespace Snake
         int irány_y = 0;
         int lépésszám;
         int hossz = 5;
+        List<KígyóElem> kígyó = new List<KígyóElem>();
 
         public Form1()
         {
@@ -16,7 +17,7 @@ namespace Snake
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {      
+        {
 
 
         }
@@ -27,28 +28,33 @@ namespace Snake
 
             fej_x += irány_x * KígyóElem.Méret;
             fej_y += irány_y * KígyóElem.Méret;
-            
+
             foreach (KígyóElem item in Controls)
             {
-                if (item.Top == fej_y && item.Left == fej_x)
+                if (item is KígyóElem)
                 {
-                    timer1.Enabled = false;
-                    //Application.Exit();
-                    return;
+                    KígyóElem k = (KígyóElem)item;
+
+                    if (k.Top == fej_y && k.Left == fej_x)
+                    {
+                        timer1.Enabled = false;
+                        //Application.Exit();
+                        return;
+                    }
                 }
             }
 
             KígyóElem ke = new KígyóElem();
             ke.Top = fej_y;
             ke.Left = fej_x;
+            kígyó.Add(ke);
             Controls.Add(ke);
-
-
-            List<KígyóElem> kígyó = new List<KígyóElem>();
-
+            
             if (Controls.Count > hossz)
             {
-                Controls.RemoveAt(0);
+                KígyóElem levágandó = kígyó[0];
+                kígyó.RemoveAt(0);
+                Controls.Remove(levágandó);
             }
 
 
@@ -56,6 +62,7 @@ namespace Snake
             {
                 ke.BackColor = Color.Black;
             }
+
 
         }
 
