@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kb4tHZg6HO496gaE5l4KOH7B1BnK/5Lq0RpAh2mzj5gOiDdoIafdfwgAqrc/Gok0zHknivOB3pOcym5uhQyZmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lf7bzn\\source\\repos\\szoftverfejlesztes\\Új mappa\\Adatbetoltes\\Adatbetoltes\\Adatbetoltes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lf7bzn\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
