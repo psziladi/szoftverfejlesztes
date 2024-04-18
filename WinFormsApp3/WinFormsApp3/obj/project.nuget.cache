@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxxpml+7ZTy3yXwld/XZkMfjzIPTq4GZrWrwlJpO4w7YIAABxBcD30pI5ymQyQJ1dYPbtAUvUnwMFeU7R74D1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sziladi-p\\source\\repos\\szoftverfejlesztes\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sziladi-p\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
